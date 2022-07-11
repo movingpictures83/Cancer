@@ -1,0 +1,5 @@
+Paper:
+Isidro Cortes-Ciriano et al., "Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing"
+
+Pipelines have been Dockerized and use CWL.  Site:
+https://dockstore.org/search?entryType=workflows&searchMode=Files
