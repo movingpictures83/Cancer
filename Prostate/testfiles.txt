@@ -1,0 +1,10 @@
+/biorg/data/Cancer/Prostate/ERR3837718_1.fastq        
+/biorg/data/Cancer/Prostate/ERR3837718_2.fastq
+/biorg/data/Cancer/Prostate/ERR3837719_1.fastq
+/biorg/data/Cancer/Prostate/ERR3837719_2.fastq
+/biorg/data/Cancer/Prostate/ERR3837720_1.fastq 
+/biorg/data/Cancer/Prostate/ERR3837720_2.fastq  
+/biorg/data/Cancer/Prostate/ERR3837721_1.fastq
+/biorg/data/Cancer/Prostate/ERR3837721_2.fastq
+/biorg/data/Cancer/Prostate/ERR3837722_1.fastq  
+/biorg/data/Cancer/Prostate/ERR3837722_2.fastq
