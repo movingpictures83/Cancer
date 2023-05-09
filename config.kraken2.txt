@@ -1,0 +1,7 @@
+Plugin Kraken2 inputfile testfiles.txt outputfile taxa.krak2
+Plugin Kraken2Translate inputfile parameters.kraken2translate.txt outputfile output.kraken2
+Plugin Kraken2Krona inputfile output.kraken2 outputfile output.krona
+Plugin KronaTree inputfile output.krona outputfile output
+Plugin Krona2CSV inputfile output.krona outputfile sample
+Plugin CSVNormalize inputfile sample.class.csv outputfile samplec.norm.csv
+Plugin KronaGram inputfile kronafiles.txt outputfile kronagram.html

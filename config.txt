@@ -1,0 +1,7 @@
+Prefix pipelines/Cancer/
+Kitty HIV
+Pipeline pipelines/Cancer/config.kraken2.txt
+Kitty Lung
+Pipeline pipelines/Cancer/config.kraken2.txt
+Kitty Prostate
+Pipeline pipelines/Cancer/config.kraken2.txt
