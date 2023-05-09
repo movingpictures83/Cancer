@@ -1,0 +1,10 @@
+/biorg/data/Cancer/Lung/ERR3837765_1.fastq        
+/biorg/data/Cancer/Lung/ERR3837765_2.fastq
+/biorg/data/Cancer/Lung/ERR3837766_1.fastq
+/biorg/data/Cancer/Lung/ERR3837766_2.fastq
+/biorg/data/Cancer/Lung/ERR3837767_1.fastq 
+/biorg/data/Cancer/Lung/ERR3837767_2.fastq  
+/biorg/data/Cancer/Lung/ERR3837768_2.fastq
+/biorg/data/Cancer/Lung/ERR3837768_1.fastq
+/biorg/data/Cancer/Lung/ERR3837769_1.fastq  
+/biorg/data/Cancer/Lung/ERR3837769_2.fastq
