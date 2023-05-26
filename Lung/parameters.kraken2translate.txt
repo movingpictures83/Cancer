@@ -1,0 +1,2 @@
+database	/biorg/data/DB/KRAKEN2/Bacteria
+kraken	taxa.krak2
